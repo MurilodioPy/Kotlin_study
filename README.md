@@ -5,6 +5,7 @@
   <li> c) da diagonal principal
   <li> d) da diagonal secundária
   <li> e) de todos os elementos da matriz
+    
 ## 2. Ler 2 matrizes, A (4 x 6) e B (4 x 6) e criar:
   <li> a) uma matriz S que seja a soma de A e B.
   <li> b) uma matriz D que seja a diferença de A e B. (A – B).
